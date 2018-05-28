@@ -1,0 +1,120 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: url(black.png);
+	height: 2000px;
+}
+
+.container {
+	width: 600px;
+	height: 2000px;
+	background: url(warface.png)no-repeat center top / cover ;
+}
+
+.top {/*border: 2px solid red;*/
+	padding-top:260px;
+	margin: -17px;
+	height: 270px;
+}
+
+.container nav {
+	margin: 2px;
+	border: black;
+	background: grey;
+}
+
+.dropdown {
+	margin-right:15px;
+}.menu {
+	margin-top: -4px;
+	/*border: 2px solid red;*/
+	height: 300px;
+	width: 600;
+}
+
+.slider {
+	/*border: 2px solid red;*/
+	margin-left: 2px;
+	float: left;
+	width: 740px;
+	height: 344px;
+	background: url(slider.png);
+}
+
+.right_slider {
+	float: right;
+	width: 432px;
+	height: 344px;
+	background: url(arena.png)no-repeat center top / cover ;
+}
+
+.nav-p {
+	color: white;
+}
+
+.pod-slider {
+	margin-left: 2px;
+	margin-top: 46px;
+	width: 1172px;
+	height: 1000px;
+}
+
+.news {
+	width: 1172px;
+	height: 700px;
+	
+}
+
+.news_final_info {
+	width: 1172px;
+	height: 300px;
+}
+
+.four_news {
+	height: 175px;
+	background: url(weapon.png)no-repeat;
+}
+
+.text_class {
+
+	margin-left: 500px;
+	width: 670px;
+	height: 175px;
+}
+
+.text_class {
+
+	padding: 25px;
+	color: #D8D8D8;
+}
+
+.final {
+	margin: 0 auto;
+	width: 1000px;
+	height: 270px;
+}
+
+.final_nav {
+	background: black;
+
+}
+
+.final_ul {
+display: block;
+	background: black;
+	padding: 10px;
+	text-align: center;
+}
+
+.final_ul li a{
+	padding: 8px;
+	font-size: 15px;
+	display: block;
+	color: #CECECE;
+}
+
+.final_ul li {
+	font-size: 15px;
+	display: block;
+	color: #CECECE;
+}
